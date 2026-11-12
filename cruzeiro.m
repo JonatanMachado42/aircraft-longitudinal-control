@@ -72,6 +72,7 @@ for i = 1:length(massa)
 
 end
 
+theta(1)
 %% 7. Conversao de unidades
 
 massa_ton = massa / 1000;
