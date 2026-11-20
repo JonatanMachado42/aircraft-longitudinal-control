@@ -28,3 +28,7 @@ Model and simulation of the longitudinal dynamics of a aircraft using MATLAB.
 ## References 
 - [OpenAP](https://github.com/junzis/openap/blob/master/openap/data/dragpolar/b789.yml)
 - [AircraftInvestigation](aircraftinvestigation.info/airplanes/Boeing_787-9.html)
+
+
+## 
+- [ ] colocar os graficos de sustentacao e arrasto no tempo 
